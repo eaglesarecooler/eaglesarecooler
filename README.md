@@ -1,6 +1,6 @@
 # ABOUT
 
-This project is a version of eaglercraftX based on Minecraft 1.12, specifically optimized for performance. It is legally licensed under the MIT License.
+This project is a version of eaglercraftX based on Minecraft 1.12, specifically optimized for performance. It is legally licensed under the MIT License. Yep yep yep
 
 ## Key Features
 
